@@ -1,0 +1,22 @@
+{
+  "name": "jsbase",
+  "version": "1.0.0",
+  "description": "pruebas unitarias con jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmbetancourt/Unit-Testing-con-Jest-en-React.git"
+  },
+  "author": "Freddy Moreno Betancourt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fmbetancourt/Unit-Testing-con-Jest-en-React/issues"
+  },
+  "homepage": "https://github.com/fmbetancourt/Unit-Testing-con-Jest-en-React#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
